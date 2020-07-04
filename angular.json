@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pwazajecia"
+    }
+  },
+  "defaultProject": "pwazajecia",
+  "cli": {
+    "analytics": false
+  }
 }
